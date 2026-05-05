@@ -3,8 +3,29 @@ __v0_runtime_loader.js
 __v0_devtools.tsx
 __v0_jsx-dev-runtime.ts
 
-# Common ignores
+# Dependencies
 node_modules/
+
+# Next.js
 .next/
+out/
+
+# Production builds
+dist/
+build/
+
+# Test and coverage output
+coverage/
+
+# TypeScript
+*.tsbuildinfo
+
+# Environment
+.env
 .env*.local
+
+# OS/editor files
 .DS_Store
+Thumbs.db
+.vscode/
+.idea/

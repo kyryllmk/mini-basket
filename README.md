@@ -4,7 +4,9 @@ Mini Basket is a completed browser basketball shooting game built as a Next.js p
 
 ## Screenshots
 
-Gameplay screenshots are stored in [`public/screenshots`](public/screenshots).
+![Mini Basket start screen](public/screenshots/Screenshot-01.png)
+
+![Mini Basket gameplay](public/screenshots/Screenshot-02.png)
 
 ## Demo
 
